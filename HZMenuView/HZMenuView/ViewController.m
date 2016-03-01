@@ -58,7 +58,7 @@
      *  LeftViewWidth:左边侧栏的宽度
      *  rightViewWidth:0表示无右边侧边栏
      */
-    HZMenuView *menuView = [HZMenuView menuViewWithLeftViewWidth:kLeftSlidWidth rightViewWidth:0 delegate:self];
+    HZMenuView *menuView = [HZMenuView menuViewWithLeftViewWidth:kLeftSlidWidth rightViewWidth:kLeftSlidWidth delegate:self];
     menuView.backgroundColor = [UIColor whiteColor];
     menuView.frame = self.view.bounds;
     [self.view addSubview:menuView];
