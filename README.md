@@ -16,6 +16,7 @@
 * [简书论坛](http://www.jianshu.com/collection/ba017346481d)
 * [HZExtend,快速开发项目的框架,结合了MVC和MVVM的优点](https://github.com/GeniusBrother/HZExtend)
 * [HZURLManager,使用URL进行导航跳转(support URL to navigate)](https://github.com/GeniusBrother/HZURLManager)
+* [HZThemeManager,多主题平滑切换的快速集成架构(Theme change)](https://github.com/GeniusBrother/HZThemeManager)
 
 ##应用架构的基本思路##
 ```ruby
